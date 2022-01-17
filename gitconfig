@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tatopace@hotmail.com
+	name = Ricardo Forte Pace
